@@ -21,8 +21,5 @@ ESP32-C3、MPU6050 與雙伺服實機起身展示將放置於此區。
 
 ## 參考資料
 
-- [MuJoCo：MJCF 模型文件](https://mujoco.readthedocs.io/en/stable/modeling.html)
-- [Stable-Baselines3：PPO](https://stable-baselines3.readthedocs.io/en/master/modules/ppo.html)
-- [Gymnasium：自訂環境](https://gymnasium.farama.org/introduction/create_custom_env/)
-- [Espressif：Arduino-ESP32 LEDC](https://docs.espressif.com/projects/arduino-esp32/en/latest/api/ledc.html)
-- [MPU-6050 Product Specification](https://invensense.tdk.com/wp-content/uploads/2015/02/MPU-6000-Datasheet1.pdf)
+- [HomeMadeGarbage：AIエージェント Codex で 強化学習 -起き上がりロボット-](https://youtu.be/LWi4ya8LXFA)
+- [HomeMadeGarbage：SelfRisingRobot GitHub](https://github.com/homemadegarbage/SelfRisingRobot)
