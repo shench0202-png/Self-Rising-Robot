@@ -19,9 +19,7 @@ MuJoCo 起身模擬展示將放置於此區。
 
 ## 實機展示
 
-ESP32-C3、MPU6050 與雙伺服實機起身展示將放置於此區。
-
-> 目前專案內尚未加入實機照片或影片。
+- [ESP32-C3 雙伺服自起身實機測試（YouTube Shorts）](https://youtube.com/shorts/RmcQNsX-z0Y?feature=share)
 
 ## 參考資料
 
