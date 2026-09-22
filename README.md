@@ -19,7 +19,11 @@ MuJoCo 起身模擬展示將放置於此區。
 
 ## 實機展示
 
-- [ESP32-C3 雙伺服自起身實機測試（YouTube Shorts）](https://youtube.com/shorts/RmcQNsX-z0Y?feature=share)
+[![ESP32-C3 雙伺服自起身實機測試](https://img.youtube.com/vi/RmcQNsX-z0Y/hqdefault.jpg)](https://youtube.com/shorts/RmcQNsX-z0Y?feature=share)
+
+[ESP32-C3 雙伺服自起身實機測試（YouTube Shorts）](https://youtube.com/shorts/RmcQNsX-z0Y?feature=share)
+
+點擊預覽圖或文字連結，即可在 YouTube 播放。
 
 ## 參考資料
 
