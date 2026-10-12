@@ -13,9 +13,11 @@
 
 ## 模擬顯示
 
-MuJoCo 起身模擬展示將放置於此區。
+[![MuJoCo 自起身機器人模擬展示](https://img.youtube.com/vi/cxJvPchDl8Y/hqdefault.jpg)](https://youtu.be/cxJvPchDl8Y)
 
-> 目前專案內尚未加入模擬截圖或影片。
+[MuJoCo 自起身機器人模擬展示（YouTube）](https://youtu.be/cxJvPchDl8Y)
+
+點擊預覽圖或文字連結，即可在 YouTube 播放。
 
 ## 實機展示
 
